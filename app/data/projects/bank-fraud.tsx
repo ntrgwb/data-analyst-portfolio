@@ -8,8 +8,8 @@ export const bankFraudProject: CaseStudy = {
     ["XGBoost", "secondary"],
   ],
 
-  status: "BANKING / FRAUD ANALYTICS",
-  statusTone: "text-secondary",
+//   status: "BANKING / FRAUD ANALYTICS",
+//   statusTone: "text-secondary",
 
   title: "Bank Account Fraud Detection",
 

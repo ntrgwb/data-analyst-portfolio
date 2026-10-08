@@ -3,8 +3,8 @@ import type { Tone } from "../skills";
 
 export type CaseStudy = {
   chips: [string, Tone][];
-  status: string;
-  statusTone: string;
+//   status: string;
+//   statusTone: string;
   title: string;
   problem: string;
   method: string;

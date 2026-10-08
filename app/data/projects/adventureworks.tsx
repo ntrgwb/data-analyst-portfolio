@@ -8,8 +8,8 @@ export const adventureWorksProject: CaseStudy = {
     ["Power Query", "muted"],
   ],
 
-  status: "PROD / LIVE",
-  statusTone: "text-tertiary",
+//   status: "PROD / LIVE",
+//   statusTone: "text-tertiary",
 
   title: "AdventureWorks Sales & Profitability Analysis",
 
