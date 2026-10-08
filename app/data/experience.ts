@@ -16,7 +16,7 @@ export const experiences = [
     company: "Tự học & Dự án cá nhân",
     dot: "bg-outline",
     periodTone: "text-on-surface-variant",
-    desc: "Tập trung phát triển kỹ năng SQL, Power BI, Python, phân tích dữ liệu và thống kê thông qua các dự án thực hành về phân tích bán hàng, trực quan hóa dữ liệu và machine learning.",
+    desc: "Tập trung phát triển kỹ năng SQL, Power BI, Python, khai phá dữ liệu, phân tích dữ liệu và phân tích thống kê thông qua các dự án thực hành về phân tích bán hàng, trực quan hóa dữ liệu.",
   },
 ];
 
