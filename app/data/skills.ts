@@ -36,7 +36,6 @@ export const skillGroups: {
       ["DAX", "secondary"],
       ["Power Query", "secondary"],
       ["Data Modeling", "muted"],
-      ["Star Schema", "muted"],
       ["Data Visualization", "muted"],
     ],
   },
