@@ -14,10 +14,10 @@ export const adventureWorksProject: CaseStudy = {
   title: "AdventureWorks Sales & Profitability Analysis",
 
   problem:
-    "Phân tích hiệu suất bán hàng của AdventureWorks nhằm đánh giá doanh thu, lợi nhuận, sản phẩm, khu vực và phân khúc khách hàng, từ đó xác định các yếu tố đóng góp chính vào kết quả kinh doanh.",
+    "Doanh thu và lợi nhuận của AdventureWorks đến từ đâu? Phân tích nhằm xác định sản phẩm, khu vực và nhóm khách hàng đóng góp chính vào hiệu quả kinh doanh.",
 
   method:
-    "Truy vấn và xử lý hơn 60.000 dòng dữ liệu từ AdventureWorksDW2019 bằng SQL Server, xây dựng mô hình Star Schema và các DAX measures trong Power BI để phân tích doanh thu, lợi nhuận, tăng trưởng và hành vi khách hàng.",
+    "Truy vấn và xử lý hơn 60.000 dòng dữ liệu bằng SQL Server, xây dựng Star Schema và DAX measures, sau đó trực quan hóa các KPI và xu hướng kinh doanh trên Power BI.",
 
   metrics: [
     ["$29.36M", "Doanh thu", "text-tertiary"],
@@ -33,8 +33,8 @@ export const adventureWorksProject: CaseStudy = {
 
   secondaryAction: {
     icon: "code",
-    label: "Mã SQL trên GitHub",
-    href: "https://github.com/ntrgwb/AdventureWorks-Sales-Analysis/blob/main/Sql/data_preparation.sql",
+    label: "Chi tiết dự án",
+    href: "https://github.com/ntrgwb/AdventureWorks-Sales-Analysis#1-t%E1%BB%95ng-quan-d%E1%BB%B1-%C3%A1n",
     external: true,
   },
 
