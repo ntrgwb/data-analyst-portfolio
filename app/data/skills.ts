@@ -6,6 +6,7 @@ export type Tone = "secondary" | "primary" | "tertiary" | "muted";
 export const skillsIntro = {
   label: "Kỹ năng chuyên môn",
   title: "Công nghệ & công cụ",
+  desc: "",
 };
 
 export const skillGroups: {

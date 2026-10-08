@@ -15,27 +15,17 @@ export default function Header() {
             {profile.brand}
           </a>
         </div>
-        <nav className="hidden md:flex items-center space-x-8">
-          {navLinks.map((l) =>
-            l.active ? (
+          <nav className="hidden md:flex items-center space-x-8">
+            {navLinks.map((l) => (
               <a
                 key={l.href}
-                className="text-secondary font-medium border-b border-secondary pb-1 font-body-sm text-body-sm"
+                className="text-on-surface-variant hover:text-secondary transition-colors font-body-sm text-body-sm"
                 href={l.href}
               >
                 {l.label}
               </a>
-            ) : (
-              <a
-                key={l.href}
-                className="text-on-surface-variant hover:text-on-surface transition-colors font-body-sm text-body-sm"
-                href={l.href}
-              >
-                {l.label}
-              </a>
-            ),
-          )}
-        </nav>
+            ))}
+          </nav>
       </div>
     </header>
   );
