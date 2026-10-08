@@ -55,7 +55,7 @@ export const caseStudies: CaseStudy[] = [
     },
     preview: (
     <img
-    src="/projects/adventureworks/Executive_Overview.png"
+    src="./projects/adventureworks/Executive_Overview.png"
     alt="AdventureWorks Sales & Profitability Dashboard"
     className="w-full h-auto rounded-[2px]"
     />
