@@ -33,8 +33,8 @@ export const heroMetrics = [
     label: "Công cụ chính",
     icon: "code",
     iconColor: "text-tertiary",
-    value: "3",
-    caption: "SQL • Power BI • Python",
+    value: "4",
+    caption: "SQL • Power BI • Excel • Python",
   },
   {
     label: "Power BI",

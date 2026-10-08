@@ -28,13 +28,13 @@ export const bankFraudProject: CaseStudy = {
   primaryAction: {
     icon: "code",
     label: "Xem trên GitHub",
-    href: "#",
+    href: "",
   },
 
   secondaryAction: {
     icon: "description",
     label: "Chi tiết dự án",
-    href: "#",
+    href: "https://github.com/ntrgwb/Bank_Fraud_Detection",
   },
 
   preview: (
