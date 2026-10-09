@@ -41,11 +41,6 @@ export default function Projects() {
                       {text}
                     </span>
                   ))}
-                  <span
-                    className={`font-label-code text-caption ml-auto font-medium ${c.statusTone}`}
-                  >
-                    {c.status}
-                  </span>
                 </div>
                 <h3 className="font-headline-md text-headline-md text-on-surface">
                   {c.title}

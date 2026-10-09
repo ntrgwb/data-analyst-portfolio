@@ -27,7 +27,7 @@ export const bankFraudProject: CaseStudy = {
 
   primaryAction: {
     icon: "code",
-    label: "Xem trên GitHub",
+    label: "",
     href: "",
   },
 
