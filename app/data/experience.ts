@@ -20,13 +20,16 @@ export const experiences = [
   },
 ];
 
-// ✏️ NĂNG LỰC CHUYÊN MÔN
+// ✏️ CHỨNG CHỈ & NĂNG LỰC CHUYÊN MÔ
 
 export const credentials = [
   {
-    icon: "hourglass_empty",
-    iconColor: "text-secondary",
-    title: "Đang cập nhật",
-    desc: "Các chứng chỉ và khóa học chuyên môn sẽ được cập nhật tại đây.",
+    icon: "workspace_premium",
+    iconColor: "text-primary",
+    title: "Introduction to Statistics",
+    issuer: "Stanford Online",
+    date: "2026",
+    desc: "Nền tảng thống kê ứng dụng trong phân tích dữ liệu",
+    credentialUrl: "https://coursera.org/verify/9TKBU8I1N3GO",
   },
 ];
