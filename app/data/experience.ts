@@ -24,6 +24,15 @@ export const experiences = [
 
 export const credentials = [
   {
+    icon: "analytics",
+    iconColor: "text-primary",
+    title: "Google Data Analytics Certificate",
+    issuer: "Google",
+    date: "2026",
+    desc: "Nền tảng phân tích dữ liệu với SQL, Python, spreadsheet",
+    credentialUrl: "LINK_CHUNG_CHI_GOOGLE_CUA_BAN",
+  },
+  {
     icon: "workspace_premium",
     iconColor: "text-primary",
     title: "Introduction to Statistics",
