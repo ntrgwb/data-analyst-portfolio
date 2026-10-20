@@ -26,7 +26,7 @@ export const credentials = [
   {
     icon: "analytics",
     iconColor: "text-primary",
-    title: "Google Data Analytics Certificate",
+    title: "Google Data Analytics Professional",
     issuer: "Google",
     date: "2026",
     desc: "Nền tảng phân tích dữ liệu với SQL, Python, spreadsheet",
