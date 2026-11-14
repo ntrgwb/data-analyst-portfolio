@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Alex Chen // Senior Data Analyst & Chuyên gia BI",
+  title: "Truong Ngo // Intern Data Analyst ",
   description:
-    "Portfolio của Alex Chen — Senior Data Analyst chuyên SQL, Python, Power BI, Tableau và pipeline dữ liệu tự động.",
+    "",
 };
 
 export default function RootLayout({

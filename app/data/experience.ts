@@ -30,7 +30,7 @@ export const credentials = [
     issuer: "Google",
     date: "2026",
     desc: "Nền tảng phân tích dữ liệu với SQL, Python, spreadsheet",
-    credentialUrl: "LINK_CHUNG_CHI_GOOGLE_CUA_BAN",
+    credentialUrl: "LINK",
   },
   {
     icon: "workspace_premium",
@@ -39,6 +39,6 @@ export const credentials = [
     issuer: "Stanford Online",
     date: "2026",
     desc: "Nền tảng thống kê ứng dụng trong phân tích dữ liệu",
-    credentialUrl: "https://coursera.org/verify/9TKBU8I1N3GO",
+    credentialUrl: "LINK",
   },
 ];
