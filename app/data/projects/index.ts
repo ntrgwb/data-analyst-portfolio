@@ -1,5 +1,6 @@
 import { adventureWorksProject } from "./adventureworks";
 import { bankFraudProject } from "./bank-fraud";
+import { bankingCasaProject } from "./banking-casa";
 
 export const projectsIntro = {
   label: "DỰ ÁN PHÂN TÍCH DỮ LIỆU",
@@ -8,6 +9,7 @@ export const projectsIntro = {
 };
 
 export const caseStudies = [
+  bankingCasaProject,
   adventureWorksProject,
   bankFraudProject,
 ];
