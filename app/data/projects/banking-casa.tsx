@@ -36,7 +36,7 @@ export const bankingCasaProject: CaseStudy = {
 
     preview: (
     <img
-        src="/projects/banking-casa/overview.png"
+        src="./projects/banking-casa/overview.png"
         alt="Dashboard Customer Overview của dự án Retail Banking Customer Analysis"
         className="w-full h-auto"
     />
