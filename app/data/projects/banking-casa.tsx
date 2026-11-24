@@ -25,7 +25,7 @@ export const bankingCasaProject: CaseStudy = {
   primaryAction: {
     icon: "code",
     label: "Xem dashboard",
-    href: "/projects/banking-casa/overview.png",
+    href: "https://app.powerbi.com/view?r=eyJrIjoiOWY2MDAzNmEtNzBkMC00YTljLTk5NDQtOGU5NzM1NzU5MTdhIiwidCI6IjVlOGIzMjY5LTc2Y2EtNDU3Yy04NDdmLTQ0NGUzZGI5ODZhNyIsImMiOjl9",
   },
 
   secondaryAction: {

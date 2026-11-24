@@ -1,3 +1,6 @@
+
+import { caseStudies } from "./projects";
+
 // ✏️ PHẦN ĐẦU TRANG (HERO) + 4 Ô CHỈ SỐ
 
 export const hero = {
@@ -19,7 +22,7 @@ export const heroMetrics = [
     label: "Dự án nổi bật",
     icon: "dashboard",
     iconColor: "text-secondary",
-    value: "2",
+    value: String(caseStudies.length),
     caption: "Data Analytics & Machine Learning",
   },
   {
